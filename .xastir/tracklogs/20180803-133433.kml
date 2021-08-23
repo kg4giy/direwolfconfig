@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>APRS Data</name>
+<open>1</open>
+<description>WGS-84 tracklog created by Xastir 2018/08/03 13:34</description>
+<Placemark><name>505</name>
+<description>Object from WC4J-3. 
+Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:33:54-04:00</when></TimeStamp><Point>
+	<coordinates>-77.57716,38.70033,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>508</name>
+<description>Object from WC4J-3. 
+Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:33:09-04:00</when></TimeStamp><Point>
+	<coordinates>-77.44967,38.79433,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>509</name>
+<description>Object from WC4J-3. 
+Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:33:26-04:00</when></TimeStamp><Point>
+	<coordinates>-77.44633,38.77083,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>510</name>
+<description>Object from WC4J-3. 
+Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:34:25-04:00</when></TimeStamp><Point>
+	<coordinates>-77.31517,38.62917,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KA3POX-4</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:34:32-04:00</when></TimeStamp><Point>
+	<coordinates>-180.00000,90.00000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KG4GIY</name>
+<description>Packets received: 0     Last Heard: </description>
+<TimeStamp><when>1969-12-31T19:00:00-05:00</when></TimeStamp><Point>
+	<coordinates>-77.48700,38.74166,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KJ4RPW-3</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:33:22-04:00</when></TimeStamp><Point>
+	<coordinates>-78.48500,37.98417,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>N3HF-1</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:33:27-04:00</when></TimeStamp><Point>
+	<coordinates>-77.41833,38.68450,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>N3KTX-4</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:34:16-04:00</when></TimeStamp><Point>
+	<coordinates>-77.96900,39.65650,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>NU3S-7</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2018-08-03T09:34:00-04:00</when></TimeStamp><Point>
+	<coordinates>-80.08000,40.37917,0 </coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>
