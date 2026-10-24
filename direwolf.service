@@ -1,0 +1,33 @@
+Used for the service file
+From: https://themodernham.com/ultimate-direwolf-tnc-installation-guide-for-windows-and-linux/#linux-install
+Place in: /etc/systemd/system/direwolf.service
+
+# KG4GIY
+[Unit]
+Description=Direwolf
+After=network.target
+
+[Service]
+Type=forking
+ExecStart=screen -S direwolf -dm bash -c "direwolf -d kn -c /home/kg4giy/direwolf.conf; exec sh"
+Restart=always
+User=kg4giy
+Group=kg4giy
+
+[Install]
+WantedBy=default.target
+
+# PI
+[Unit]
+Description=Direwolf
+After=network.target
+
+[Service]
+Type=forking
+ExecStart=screen -S direwolf -dm bash -c "direwolf -d kn -c /home/pi/direwolf.conf; exec sh"
+Restart=always
+User=pi
+Group=pi
+
+[Install]
+WantedBy=default.target
